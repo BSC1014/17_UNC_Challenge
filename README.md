@@ -41,8 +41,7 @@
 ## Summary
 ***
 
-Results: Using bulleted lists and images of DataFrames as support, address the following questions:
-How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+- Bias: Obviously, if someone is paid for a review, the likelihood that the review would be positive needs to be taken in consideration. We did not see a positive bias in our data set given the paid reviews had a lower percentage of overall 5-star reviews vs. non-paid, but it needs to be taken into consideration in this type of data set. 
+
+- Thoughts: Overall, the vine paid review process for this type of product does not seem to be worth it, in fact it looks to be detrimental vs. the overall non-paid data set, in essence you are paying for poor reviews. It could be due to the fact that an automotive product usually is needed to fix a problem or issue, if it accomplishes that goal then someone is more likely to be happy with the product. Perhaps the paid participants did not have a need for the product and therefore were not as satisfied. Further analysis can be done across various product types to see if different types are more likely to generate positive paid reviews. 
+
