@@ -1,25 +1,42 @@
 # 17_UNC_Challenge
-
-# 17_UNC_Challenge
 ***
 ## Overview
 
-    - The purpose of this analysis was to understand from a data standpoint members that were paid for reviews on Amazon for specific products, in this cause automobile products. The results of this data can help to better understand if paying for reviews is worth it by analyzing the number of 5-star reviews with and without paid vine reviews. 
+- The purpose of this analysis was to understand from a data standpoint members that were paid for reviews on Amazon for specific products, in this cause automobile products. The results of this data can help to better understand if paying for reviews is worth it by analyzing the number of 5-star reviews with and without paid vine reviews. 
 
 ## Results
 ***
 
 - Vine Reviews: 
-ddddd
+
+
+![Screen Shot 2023-01-08 at 11 54 25 PM](https://user-images.githubusercontent.com/111612130/211243184-c33b8e81-d5f0-4142-8a09-ee42eb068f3f.png)
+
+
 - Non-Vine Reviews: 
 
--Vine 5 Star Reviews: 
 
--Non-Vine 5 Star Reviews:
+![Screen Shot 2023-01-08 at 11 54 49 PM](https://user-images.githubusercontent.com/111612130/211243212-e6cf6c18-b90b-4897-a673-9ebbf7b8e7cb.png)
 
--Percentage 5 Star Vine Reviews: 
+- Vine 5 Star Reviews: 
 
--Percentage 5 Star Non-Vine Reviews: 
+
+![Screen Shot 2023-01-08 at 11 55 06 PM](https://user-images.githubusercontent.com/111612130/211243246-7863dcac-a41e-41b8-9f15-1b612c60202d.png)
+
+- Non-Vine 5 Star Reviews:
+
+
+![Screen Shot 2023-01-08 at 11 55 19 PM](https://user-images.githubusercontent.com/111612130/211243251-31fab673-c224-4146-b669-c2701ba52ab8.png)
+
+- Percentage 5 Star Vine Reviews: 
+
+
+![Screen Shot 2023-01-08 at 11 52 31 PM](https://user-images.githubusercontent.com/111612130/211243035-034ba4c6-2af0-4197-855f-659057f09d0a.png)
+
+- Percentage 5 Star Non-Vine Reviews: 
+
+
+![Screen Shot 2023-01-08 at 11 52 52 PM](https://user-images.githubusercontent.com/111612130/211243062-4eeefd8c-451a-4933-a895-b46a46e94f82.png)
 
 ## Summary
 ***
