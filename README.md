@@ -45,3 +45,13 @@
 
 - Thoughts: Overall, the vine paid review process for this type of product does not seem to be worth it, in fact it looks to be detrimental vs. the overall non-paid data set, in essence you are paying for poor reviews. It could be due to the fact that an automotive product usually is needed to fix a problem or issue, if it accomplishes that goal then someone is more likely to be happy with the product. Perhaps the paid participants did not have a need for the product and therefore were not as satisfied. Further analysis can be done across various product types to see if different types are more likely to generate positive paid reviews. 
 
+## Evidence of PG ADMIN Load From AWS:
+<img width="390" alt="Screen Shot 2023-01-09 at 12 10 02 AM" src="https://user-images.githubusercontent.com/111612130/211244488-5a34cb08-d3ab-4a10-b414-73449fa7357a.png">
+
+<img width="354" alt="Screen Shot 2023-01-09 at 12 10 51 AM" src="https://user-images.githubusercontent.com/111612130/211244518-4fa12b28-6ff4-4b54-877a-db8a661214f0.png">
+
+<img width="378" alt="Screen Shot 2023-01-09 at 12 11 22 AM" src="https://user-images.githubusercontent.com/111612130/211244524-8ac55d67-ac05-4e2a-9508-533d123f50a1.png">
+
+
+<img width="431" alt="Screen Shot 2023-01-09 at 12 11 47 AM" src="https://user-images.githubusercontent.com/111612130/211244530-292a900f-1453-41ed-b2ef-c303609d9399.png">
+
